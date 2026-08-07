@@ -9,3 +9,4 @@
 ## Feature Dashboard
 - Added dashboard page.
 
+Week 2 Activity Completed Successfully
